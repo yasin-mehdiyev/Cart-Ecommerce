@@ -1,0 +1,17 @@
+.badge-secondary-custom {
+    background: #0aaf16!important;
+}
+
+.badge-custom{
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .65em;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
